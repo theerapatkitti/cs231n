@@ -1,0 +1,4 @@
+coco_captioning/*
+MNIST_data/*
+imagenet_val_25*
+squeezenet*
